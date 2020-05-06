@@ -5,6 +5,7 @@
       <mapping pattern="templateFromZohairbhai" type="JavaScript" />
       <mapping pattern="zohair bhai's" type="PLAIN_TEXT" />
       <mapping pattern="template.js" type="PLAIN_TEXT" />
+      <mapping pattern="abc.js" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
