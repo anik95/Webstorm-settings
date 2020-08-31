@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="templateFromZohairbhai" type="JavaScript" />
       <mapping pattern="template" type="JavaScript" />
+      <mapping pattern="templateFromZohairbhai" type="JavaScript" />
+      <mapping pattern="basket page ndd timer for tablet" type="PLAIN_TEXT" />
       <mapping pattern="zohair bhai's" type="PLAIN_TEXT" />
       <mapping pattern="abc.js" type="PLAIN_TEXT" />
       <mapping pattern="template.js" type="PLAIN_TEXT" />
