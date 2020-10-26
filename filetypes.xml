@@ -6,6 +6,7 @@
       <mapping pattern="basket page ndd timer for tablet" type="PLAIN_TEXT" />
       <mapping pattern="zohair bhai's" type="PLAIN_TEXT" />
       <mapping pattern="abc.js" type="PLAIN_TEXT" />
+      <mapping pattern=".active" type="PLAIN_TEXT" />
       <mapping pattern="template.js" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
